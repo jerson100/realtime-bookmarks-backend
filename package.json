@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "scripts": {
-    "dev": "ts-node-dev ./src/main.ts",
+    "dev": "ts-node-dev ./src/index.ts",
     "build": "tsc",
     "start": "node build/index.js"
   },
